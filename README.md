@@ -26,5 +26,5 @@ This section guides you on how to utilize the contents of this repository effect
 ## Contact Information
 For inquiries or contributions, please contact:
 - **Name**: Alvin Oti  
-- **Email**: alvin.oti@example.com  
+- **Email**: otisec@icloud.com 
 - **GitHub**: [18-AlvinOti](https://github.com/18-AlvinOti)  
